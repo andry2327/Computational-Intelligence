@@ -20,10 +20,10 @@ So the final `distance_A_star` function includes 3 metrics: `g` cost function, `
 
 Here’s some results:
 
-![SCR-20231025-osot.png](LAB1%20-%20A%20search%206548cdab3fb749d89385332ae4e35c31/SCR-20231025-osot.png)
+![SCR-20231025-osot.png](https://github.com/andry2327/Computational-Intelligence/blob/main/LABS/L01%20-%20A%20star/SCR-20231025-osot.png)
 
-![SCR-20231025-oueu.png](LAB1%20-%20A%20search%206548cdab3fb749d89385332ae4e35c31/SCR-20231025-oueu.png)
+![SCR-20231025-oueu.png](https://github.com/andry2327/Computational-Intelligence/blob/main/LABS/L01%20-%20A%20star/SCR-20231025-oueu.png)
 
-![SCR-20231025-pdcv.png](LAB1%20-%20A%20search%206548cdab3fb749d89385332ae4e35c31/SCR-20231025-pdcv.png)
+![SCR-20231025-pdcv.png](https://github.com/andry2327/Computational-Intelligence/blob/main/LABS/L01%20-%20A%20star/SCR-20231025-pdcv.png)
 
 I also implemented a section in which it is possible to run N (`SIM_ITER` in code) simulations to compare 2 different algorithm. For each simulation it computes a score of the algorithm performances based on number of steps to reach the solution, number of tiles used, numbers of overlaps, and time elapsed. An higher score means better performances of the algorithm.
