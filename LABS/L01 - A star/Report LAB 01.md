@@ -27,3 +27,7 @@ Here’s some results:
 ![SCR-20231025-pdcv.png](https://github.com/andry2327/Computational-Intelligence/blob/main/LABS/L01%20-%20A%20star/SCR-20231025-pdcv.png)
 
 I also implemented a section in which it is possible to run N (`SIM_ITER` in code) simulations to compare 2 different algorithm. For each simulation it computes a score of the algorithm performances based on number of steps to reach the solution, number of tiles used, numbers of overlaps, and time elapsed. An higher score means better performances of the algorithm.
+Here’s an output exampls:
+![SCR-20231025-shuq.png](https://github.com/andry2327/Computational-Intelligence/blob/main/LABS/L01%20-%20A%20star/SCR-20231025-shuq.png)
+
+
