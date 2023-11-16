@@ -2,7 +2,7 @@
 
 The following solution was developed together with [Lorenzo Tozzi](https://github.com/anubis09/Computational-Intelligence).
 
-Firstly we tried a few strategies, but we quickly realised that they weren't evolutionary strategies (#SECTION NAME).
+Firstly we tried a few strategies, but we quickly realised that they weren't evolutionary strategies (Other Strategies result in the notebook).
 We leave them here since at least they provide good results at playing Nim.
 # remember to write all not evolutionary strategy in another file, import it and then show the results.
 
@@ -33,6 +33,8 @@ We generate 10 different offsprings at each generation.
 Based on the fitness, we select the best move, between the 10 new offsprings and their generating parent.
 
 ## Fitness
+To evaluate a move, we create a certain nunmber of copies of the nim state and we make play a pure random strategy against another strategy. Our pure random strategy always starts with the move to evaluate. 
+The fitness value assigned to each move is the number of wins that the pure random strategy achieve using that move as a starting one.
 
 ## Results
 
