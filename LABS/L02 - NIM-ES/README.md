@@ -2,7 +2,7 @@
 
 The following solution was developed together with [Lorenzo Tozzi](https://github.com/anubis09/Computational-Intelligence).
 
-Firstly we tried a few strategies, but we quickly realised that they weren't evolutionary strategies (other strategies results in the notebook).
+Firstly we tried a few strategies, but we quickly realised that they weren't evolutionary strategies. These are `Ev_strat_1()`, `approximate_es`, `approximate_es_boosted`, which can still be tested in the notebook.
 We leave them here since at least they provide good results at playing Nim.
 
 The only evolutionary strategy implemented here is the `real_es`.
