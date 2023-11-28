@@ -15,9 +15,11 @@ class AbstractProblem:
         pass
 
     @property
+    # Returns the number of calls done on this class
     def calls(self):
         return self._calls
 
+    # Returns how many 1's in genome
     @staticmethod
     def onemax(genome):
         return sum(bool(g) for g in genome)
