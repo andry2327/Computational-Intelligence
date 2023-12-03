@@ -1,0 +1,4 @@
+Problem instance: 1, Best individual fitness: 1.0, Generation num: 135, Fitness calls: 27200 -> fitness/fitness_call adjusted: 367.6471
+Problem instance: 2, Best individual fitness: 1.0, Generation num: 299, Fitness calls: 60000 -> fitness/fitness_call adjusted: 166.6667
+Problem instance: 5, Best individual fitness: 0.71, Generation num: 132, Fitness calls: 26600 -> fitness/fitness_call adjusted: 266.9173
+Problem instance: 10, Best individual fitness: 0.48677931, Generation num: 762, Fitness calls: 152600 -> fitness/fitness_call adjusted: 31.8990
