@@ -63,4 +63,9 @@ Problem instance: 10, Best individual fitness: 0.3006733, Generation num: 120, F
 
 ![img1](https://github.com/andry2327/Computational-Intelligence/blob/main/LABS/L09/imgs/%234%20Bit%20assign%20strategy%2C%20with%20island%20model/output4.png)
 
+---
+# Peer Reviews
+- [Review Lab9 (by Andrea Pellegrino s309855) #1](https://github.com/vinz321/computational_intelligence_23_24/issues/5#issue-2034313852)
+- [Review Lab9 (by Andrea Pellegrino s309855) #2](https://github.com/GiovanniGaddi/Computational-intelligence/issues/2#issue-2034330713)
+
 
