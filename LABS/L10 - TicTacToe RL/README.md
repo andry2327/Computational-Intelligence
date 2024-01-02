@@ -37,4 +37,8 @@ The results are:
 3) Lastly we have ```rl_RL_trained``` with 89.4% of wins, 9.45% of ties and 1.15% of losses.
 
 Notice that with more epochs of training (around 500_000 in total), the ```rl_RL_trained``` agent can reach the performances of the other agents.
+---
+# Peer Reviews
+- [Review Lab9 (by Andrea Pellegrino s309855) #1](https://github.com/PaolaMts/ComputationalIntelligence/issues/8#issue-2062337912)
+- [Review Lab9 (by Andrea Pellegrino s309855) #2](https://github.com/arturoadelfio/computational_intelligence/issues/4#issue-2062654130)
 
