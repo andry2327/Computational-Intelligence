@@ -1,6 +1,6 @@
 # Quixo
 
-The following solution was developed together with [Andrea Pellegrino](https://github.com/andry2327/Computational-Intelligence).
+The following solution was developed together with [Lorenzo Tozzi](https://github.com/anubis09).
 
 Our code refers to the following commit: 36854293decbb4496061a2295f2d2fcd0c61d4d0.
 
