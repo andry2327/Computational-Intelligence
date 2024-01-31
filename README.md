@@ -8,4 +8,5 @@ Labs:
 - [Lab 9 - Local search algorithm](https://github.com/andry2327/Computational-Intelligence/tree/main/LABS/L09)
 - [Lab 10 - TicTacToe with Reinforcement Learning](https://github.com/andry2327/Computational-Intelligence/tree/main/LABS/L10%20-%20TicTacToe%20RL)
 
-Quixo final project: [Quixo](https://github.com/andry2327/Computational-Intelligence/tree/main/LABS/Quixo)
+Quixo final project: 
+- [Quixo](https://github.com/andry2327/Computational-Intelligence/tree/main/LABS/Quixo)
